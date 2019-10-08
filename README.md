@@ -10,4 +10,10 @@ if Moneda = 100
 MsgBox, Canto
 Repositori de proves per exercicis amb Aula Balear.
 Aquest arxiu ha estat modificat, unicament amb texte.
+
 Per Kirill Munar Frau! Guay!!!
+
+Per Kirill Munar Frau
+
+En kirill ha fet un canvi! Guay!
+
