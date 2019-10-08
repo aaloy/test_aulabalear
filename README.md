@@ -13,19 +13,27 @@ Per Kirill Munar Frau
 
 En Toni ha fet un merge!!!
 
+
 WOW!!! 
 WAW!!!
 pepepeç
 'e'epee
 pepep
 Magi payeras
+
+FACUNDO SAN MARTIN.................................................................................
+
+* WOW!!! 
+* WAW!!!
+* pepepeç
+* 'e'epee
+* pepep
+
 # Readme
 
 * un
 * **dos**
-* tres
-
-
+* miguelito
 
 
 
